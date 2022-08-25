@@ -4,14 +4,14 @@ Sayfalar arası geçiş uygulaması.
 
 ## Yapılmak istenen uygulama:
 
-![120a85d4-e30d-4d1e-90bb-35820de4ef7e](https://user-images.githubusercontent.com/9364520/186658342-d607e75c-6850-4667-ac08-9da7336d2ae0.jpeg)
 
+<img src="https://user-images.githubusercontent.com/9364520/186658342-d607e75c-6850-4667-ac08-9da7336d2ae0.jpeg" alt="ScreenShot" width: 50%;>
 ## Geliştirilen uygulamanın ekran çıktıları:
 
 <table>
 
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/9364520/186657965-28f91348-d1bf-4364-b23f-039289f3cc33.png" alt="ScreenShot"></td>
+    <td><img src="https://user-images.githubusercontent.com/9364520/186657965-28f91348-d1bf-4364-b23f-039289f3cc33.png" alt="ScreenShot" width: 50%;></td>
     <td><img src="https://user-images.githubusercontent.com/9364520/186657995-fa3e788d-d5c8-4e99-b676-b08cf0055f73.png" alt="ScreenShot"></td>
     <td><img src="https://user-images.githubusercontent.com/9364520/186658003-84ffe47b-b05d-400a-b44d-8c352b83163d.png" alt="ScreenShot"></td>
   </tr>
