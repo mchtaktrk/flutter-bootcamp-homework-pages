@@ -8,8 +8,13 @@ Sayfalar arası geçiş uygulaması.
 <img src="https://user-images.githubusercontent.com/9364520/186658342-d607e75c-6850-4667-ac08-9da7336d2ae0.jpeg" alt="ScreenShot" style="width: 50%;">
 
 ## Geliştirilen uygulamanın ekran çıktıları:
+<style>
+td {
+  text-align: center;
+}
+</style>
 
-<table style="margin-left: auto; margin-right: auto;">
+<table>
 
   <tr>
     <td><img src="https://user-images.githubusercontent.com/9364520/186657965-28f91348-d1bf-4364-b23f-039289f3cc33.png" alt="ScreenShot" style="width: 50%;"></td>
