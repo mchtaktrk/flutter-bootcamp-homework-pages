@@ -5,7 +5,7 @@ Sayfalar arası geçiş uygulaması.
 ## Yapılmak istenen uygulama:
 
 
-<img src="https://user-images.githubusercontent.com/9364520/186658342-d607e75c-6850-4667-ac08-9da7336d2ae0.jpeg" alt="ScreenShot" width: 50%;>
+<img src="https://user-images.githubusercontent.com/9364520/186658342-d607e75c-6850-4667-ac08-9da7336d2ae0.jpeg" alt="ScreenShot" style="width: 50%;">
 ## Geliştirilen uygulamanın ekran çıktıları:
 
 <table>
