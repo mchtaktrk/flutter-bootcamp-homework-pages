@@ -9,9 +9,9 @@ Sayfalar arası geçiş uygulaması.
 
 ## Geliştirilen uygulamanın ekran çıktıları:
 
-<table>
+<table style="text-align: center;">
 
-  <tr style="text-align: center;">
+  <tr>
     <td><img src="https://user-images.githubusercontent.com/9364520/186657965-28f91348-d1bf-4364-b23f-039289f3cc33.png" alt="ScreenShot" style="width: 50%;"></td>
     <td><img src="https://user-images.githubusercontent.com/9364520/186657995-fa3e788d-d5c8-4e99-b676-b08cf0055f73.png" alt="ScreenShot" style="width: 50%;"></td>
     <td><img src="https://user-images.githubusercontent.com/9364520/186658003-84ffe47b-b05d-400a-b44d-8c352b83163d.png" alt="ScreenShot" style="width: 50%;"></td>
